@@ -1,0 +1,3412 @@
+Ac Ce S S Ar Y 
+Ac C Es S Ar Y 
+Ac Co U N Ta N C Y 
+Ac C O U N Ta N C Y 
+Ac Cr U Al 
+Ac C Ru Al 
+Ac Cu Ra C Y 
+Ac C U Ra C Y 
+Ac Er B 
+Ac Er Ba Te 
+Ac Er Ba Te 
+Ac Er Bi C 
+Ac Er B I C 
+Ac He 
+Ac He 
+Ac Ne 
+Ac Ne 
+Ac O Ni Te 
+Ac O N I Te 
+Ac O Rn 
+Ac O U S Ti C 
+Ac O U S Ti Cs 
+Ac O U S Ti C S 
+Ac Ti Ni C 
+Ac Ti N I C 
+Ac Ti O N 
+Ac U Pr Es S U Re 
+Ac U P Re S S U Re 
+Ac U Te 
+Ac U Te Ne S S 
+Ac U Te N Es S 
+Ac Y Cl I C 
+Ac Y C Li C 
+Ag Na Te 
+Ag Na Te 
+Ag Na Ti C 
+Ag N At I C 
+Ag Na Ti O N 
+Ag N At I O N 
+Ag No S Ti C 
+Ag O 
+Ag Og 
+Ag Og 
+Ag O Ra 
+Al 
+Al Ar 
+Al As 
+Al B 
+Al Bi O N 
+Al B I O N 
+Al Er Tl Y 
+Al Ga 
+Al I Bi 
+Al I B I 
+Al I Mo N Y 
+Al I O Th 
+Al I P H At I C 
+Al K Al I 
+Al La H 
+Al La Y 
+Al Li Te Ra Te 
+Al Li Te Ra Ti O N 
+Al Lu Re 
+Al Lu V I Al 
+Al Lu V I O N 
+Al Mo Nd 
+Al Mo Nd 
+Al O Ne 
+Al O Ne 
+Al O O F 
+Al O O F Ne S S 
+Al O O F N Es S 
+Al P 
+Al Te Rn At I O N 
+Al Th O 
+Al U Mn U S 
+Am 
+Am As S 
+Am Bi Ti O N 
+Am B I Ti O N 
+Am B U La Te 
+Am B U La Ti O N 
+Am B U S H 
+Am H Ar I C 
+Am I Ds H I P S 
+Am Ir 
+Am Ir 
+Am I S H 
+Am I S S 
+Am Mo Ni Te 
+Am Mo N I Te 
+Am Ne S Ti C 
+Am N Es Ti C 
+Am Ni O N 
+Am N I O N 
+Am Ni O Ti C 
+Am N I O Ti C 
+Am P Ho Ra 
+Am P H O Ra 
+Am P Li F I Ca Ti O N 
+Am P Li F I C At I O N 
+Am P Li F I Er 
+Am P Li F Y 
+Am Pu Ta Te 
+Am P U Ta Te 
+Am Pu Ta Ti O N 
+Am P U Ta Ti O N 
+Am U C K 
+Am U Se 
+Am U Se 
+Am Y 
+Ar C 
+Ar C H 
+Ar C H I V Al 
+Ar C H Ne S S 
+Ar C H N Es S 
+Ar C Ho N 
+Ar C H O N 
+Ar C Ti C 
+Ar Ge N Ti Ne 
+Ar Ge N Ti Ne 
+Ar Ge N Ti Te 
+Ar I Es 
+Ar I Se 
+Ar I Se 
+Ar K 
+Ar O U S Al 
+Ar O U Se 
+Ar O U Se 
+Ar Ra S 
+Ar Ra Y 
+Ar Re Ar 
+Ar Se 
+Ar Se 
+Ar S O N 
+Ar Ti Cu La Te 
+Ar Ti C U La Te 
+Ar Ti Cu La Ti O N 
+Ar Ti C U La Ti O N 
+Ar Ti F I C I Al Ne S S 
+Ar Ti F I C I Al N Es S 
+Ar Ti S Te 
+Ar Tl Es Sn Es S 
+As 
+As H 
+As Ho Re 
+As H O Re 
+As I At I C 
+As K 
+As K Er 
+As P 
+As P H Al Ti C 
+As P I C 
+As P Ir Er 
+As P Ir Er 
+As S 
+As S As Si N 
+As S O Na Te 
+As S O Na Te 
+As S U Ra N Ce 
+As S U Ra N Ce 
+As S U Re 
+At 
+At La N Ta 
+At La S 
+At O P 
+At Ta C H 
+At Ta C He 
+At Ta C He 
+At Ta C K 
+At Ta C K Er 
+At Ta In 
+At Ta I N 
+At Te S Ta Ti O N 
+At Ti C 
+At Ti Re 
+Au C Ti O N 
+Au K 
+Au Ra 
+Au S Ti N 
+Au Th O Re S S 
+B 
+Ba C C H U S 
+B Ac C H U S 
+Ba C K 
+B Ac K 
+Ba C K Er 
+B Ac K Er 
+Ba C K La S H 
+B Ac K La S H 
+Ba C K W As H 
+B Ac K W As H 
+Ba C K W O O Ds 
+B Ac K W O O Ds 
+Ba Rb 
+B Ar B 
+Ba Rb Er 
+Ba Re 
+Ba Re 
+Ba Rn 
+B Ar N 
+Ba S Al 
+B As Al 
+Ba S Al Ti C 
+B As Al Ti C 
+Ba S H 
+B As H 
+Ba S K 
+B As K 
+Ba S S 
+B As S 
+Ba S S O O N 
+B As S O O N 
+Ba S Te 
+B As Te 
+Ba S Ti O N 
+B As Ti O N 
+Ba Te 
+Ba Te 
+Ba Th 
+B At H 
+Ba Th Er 
+Ba Ti S Te 
+B At I S Te 
+Be 
+Be 
+Be Ra Te 
+Be Ra Te 
+Be Rb Er 
+Be Rg 
+Be Rg 
+Be S Ti Al 
+B Es Ti Al 
+Be S Ti Ar Y 
+B Es Ti Ar Y 
+Bi As 
+B I As 
+Bi B 
+B I B 
+Bi C K Er 
+B I C K Er 
+Bi C K Er Er 
+B I C K Er Er 
+Bi Er 
+B I Er 
+Bi Ga Mo U S 
+B I Ga Mo U S 
+Bi Li Ar Y 
+B I Li Ar Y 
+Bi N 
+Bi O Ti C 
+B I O Ti C 
+Bi O Ti Te 
+B I O Ti Te 
+Bi Te 
+B I Te 
+B La B 
+B La C K 
+B La C K F I S H 
+B La C K I S H 
+B La C K Ne S S 
+B La C K N Es S 
+B La In 
+B La I N 
+B La N C H 
+B La N K 
+B La N K Ne S S 
+B La N K N Es S 
+B La Re 
+B La Se 
+B La Se 
+B La Ta N C Y 
+B La Ta N Tl Y 
+B La Th Er 
+B La Th Er S K I Te 
+B Li Nd 
+B Li Nd 
+B Li N K 
+B Li N K Er 
+B Li S S 
+B Lu F F 
+B Lu F F Ne S S 
+B Lu F F N Es S 
+B Lu I S H 
+B Lu N Tl Y 
+B O Ar 
+B O At 
+B O B 
+B O B Bi N 
+B O B B Y 
+B O B O Li N K 
+B O B W H I Te 
+B O Dy 
+B O Er 
+B Og 
+B Og 
+B O La S 
+B O Lu S 
+B O Nb O N 
+B O N B O N 
+B O Nd 
+B O Nd 
+B O Ne 
+B O Ne 
+B O N N Y 
+B O N U S 
+B O O B Y 
+B O O K P La Te 
+B O O K S Ho P 
+B O O K S H O P 
+B O O N 
+B O O Tb La C K 
+B O O Tl Es S 
+B O O Tl I C K 
+B O Ra Te 
+B O Re 
+B O Re Al 
+B O Re As 
+B Os H 
+B O S H 
+B Os O N 
+B O S O N 
+B Os S 
+B O S S 
+B Os S Y 
+B O S S Y 
+B O Tc H Y 
+B O Th 
+B O Th Er 
+B O U N Ce 
+B O U N Ce 
+B O U Nd 
+B O U Nd 
+B O U N Te O U S 
+B O W 
+B O W Er 
+B O W Er Y 
+B O W Li Ne 
+B O W Li Ne 
+B O Y 
+B O Y I S H 
+B O Y I S H Ne S S 
+B O Y I S H N Es S 
+Br Ac H I Al 
+B Ra C H I Al 
+Br Ac K I S H 
+B Ra C K I S H 
+Br Ag 
+Br Ag 
+Br As H 
+B Ra S H 
+Br As S 
+B Ra S S 
+Br At 
+Br At 
+Br U S H 
+B Ru S H 
+Br U S H Y 
+B Ru S H Y 
+Br U S K 
+B Ru S K 
+Br U Te 
+B Ru Te 
+Br U Ti S H 
+B Ru Ti S H 
+B U B 
+B U B O 
+B U C K 
+B U C K Er 
+B U C Kr Am 
+B U C Kr Am 
+B U C K S K In 
+B U C K S K I N 
+B U Co Li C 
+B U C O Li C 
+B U F F 
+B U F F Al O 
+B U F F O O N 
+B U F F O O Ni S H 
+B U F F O O N I S H 
+B U Lr U S H 
+B U N C H 
+B U N C H Y 
+B U Ni O N 
+B U N I O N 
+B U N K 
+B U N K O 
+B U N N Y 
+B U O Y 
+B U Re Au Cr At 
+B U Re Au Cr At 
+B U Rg H 
+B U Rg H Al 
+B U Rn 
+B U Rn I S H 
+B U S 
+B U Sb Y 
+B U S B Y 
+B U S H 
+B U S H In Es S 
+B U S K 
+B U S S 
+B U S Tl Er 
+B U S Y 
+B U S Yb O Dy 
+B U S Y B O Dy 
+B U Ta Ne 
+B U Ta Ne 
+B U Tl Er 
+B U Y 
+B U Y Er 
+B Y 
+B Y Pa Th 
+B Y P At H 
+B Y P La Y 
+C 
+Ca Ge 
+Ca Ge 
+Ca Li 
+C Al I 
+Ca Li P Er S 
+C Al I P Er S 
+Ca Li P H 
+C Al I P H 
+Ca Lu Mn I At I O N 
+C Al U Mn I At I O N 
+Ca Lu Mn I O U S 
+C Al U Mn I O U S 
+Ca Lu Mn Y 
+C Al U Mn Y 
+Ca Lv Ar Y 
+C Al V Ar Y 
+Ca Rb O Li C 
+C Ar B O Li C 
+Ca Rb O N 
+C Ar B O N 
+Ca Rb O Y 
+C Ar B O Y 
+Ca Re 
+Ca Re 
+Ca Re S S 
+C Ar Es S 
+Ca Rn At I O N 
+Ca Rn I V O Ra 
+Ca Rn I V O Re 
+Ca S H 
+C As H 
+Ca S H B O O K 
+C As H B O O K 
+Ca S H I Er 
+C As H I Er 
+Ca S K 
+C As K 
+Ca S S O C K 
+C As S O C K 
+Ca S S O W Ar Y 
+C As S O W Ar Y 
+Ca S U Al 
+C As U Al 
+Ca Tb O At 
+C At B O At 
+Ca Tc H 
+C At C H 
+Ca Th Ar Ti C 
+C At H Ar Ti C 
+Ca Ti O N 
+C At I O N 
+Ca Ts U P 
+C At S U P 
+Ca U S Al 
+C Au S Al 
+Ca U S At I O N 
+C Au S At I O N 
+Ca U S Ti C 
+C Au S Ti C 
+Ca U Ti O N 
+C Au Ti O N 
+Ca U Ti O U S 
+C Au Ti O U S 
+Ce Rb Er U S 
+Ce Re S 
+C Er Es 
+Ce Re U S 
+C Er Eu S 
+Ce S S At I O N 
+C Es S At I O N 
+Ce S U Ra 
+C Es U Ra 
+C H Al I Ce 
+C H Al I Ce 
+C H Al K 
+C H Al K In Es S 
+C H Al K Y 
+C H Al Li S 
+C H Am O I S 
+C H Am P 
+C H Am P I O N S H I P 
+C H Ar 
+C H Ar Co Al 
+C H Ar C O Al 
+C H Ar Ge 
+C H Ar In Es S 
+C H Ar I O Te Er 
+C H Ar I V Ar I 
+C H Ar La Ta N 
+C H Ar O N 
+C H Ar Y 
+C H As Er 
+C H As Se 
+C H As Se 
+C H As Si S 
+C H As S I S 
+C H As Te Ne S S 
+C H As Te N Es S 
+C H At 
+C H At Ti Ne S S 
+C H At Ti N Es S 
+C He Ru B 
+C H Er U B 
+C He S S 
+C H Es S 
+C H I C 
+C H I C K 
+C H I F F O N 
+C H I Li 
+C H I Li As Ti C 
+C H In 
+C H I N 
+C H In C H 
+C H I N C H 
+C H In K 
+C H I N K 
+C H In O O K 
+C H I P 
+C H I P P Er 
+C H I P S 
+C H I Tc H At 
+C H I Ti N 
+C H I Ti No U S 
+C H I Ti N O U S 
+C Ho C K 
+C H O C K 
+C Ho P 
+C H O P 
+C Ho P P Er 
+C H O P P Er 
+C Ho P P Y 
+C H O P P Y 
+C Ho P S Ti C K 
+C H O P S Ti C K 
+C Ho Re 
+C H O Re 
+C Ho Ru S 
+C H O Ru S 
+C Ho W 
+C H O W 
+C H Th O Ni C 
+C H Th O N I C 
+C H U B 
+C H U B B Y 
+C H U C K 
+C H U N K 
+C H U N K Y 
+C H U Rn 
+C H U Te 
+C H Y Mo U S 
+C I Li Ar Y 
+C I O N 
+C I Ta Ti O N 
+C I Te 
+C I V I C 
+C I V I Cs 
+C I V I C S 
+Cl Am 
+Cl Am 
+Cl As H 
+C La S H 
+Cl As S 
+C La S S 
+Cl As Ti C 
+C La S Ti C 
+Cl I C K 
+C Li C K 
+Cl I C K Er 
+C Li C K Er 
+Cl I F F 
+C Li F F 
+Cl I F F Y 
+C Li F F Y 
+Cl I P 
+C Li P 
+Cl I P P Er 
+C Li P P Er 
+Cl U B 
+C Lu B 
+Cl U C K 
+C Lu C K 
+Cl U Tc H 
+C Lu Tc H 
+Co Ac H 
+C O Ac H 
+Co Ag U La Te 
+C O Ag U La Te 
+Co Al 
+C O Al 
+Co At I 
+C O At I 
+Co B 
+C O B 
+Co C C Y Ge Al 
+C O C C Y Ge Al 
+Co C K 
+C O C K 
+Co C K At O O 
+C O C K At O O 
+Co C K Er 
+C O C K Er 
+Co C K Y 
+C O C K Y 
+Co Er C I O N 
+C O Er C I O N 
+Co I F 
+C O I F 
+Co I F F U Re 
+C O I F F U Re 
+Co I Ti O N 
+C O I Ti O N 
+Co La 
+C O La 
+Co Li C 
+C O Li C 
+Co Li C K Y 
+C O Li C K Y 
+Co Li N 
+C O Li N 
+Co Li Ti S 
+C O Li Ti S 
+Co Lu Mn 
+C O Lu Mn 
+Co Lu Mn Ar 
+C O Lu Mn Ar 
+Co N 
+C O N 
+Co N C H 
+C O N C H 
+Co N C I Er Ge 
+C O N C I Er Ge 
+Co N C I Li At I O N 
+C O N C I Li At I O N 
+Co N F U Ta Ti O N 
+C O N F U Ta Ti O N 
+Co N F U Te 
+C O N F U Te 
+Co N Ge Al 
+C O N Ge Al 
+Co N Ge S Ti O N 
+C O N Ge S Ti O N 
+Co N N 
+C O N N 
+Co N S O La Ti O N 
+C O N S O La Ti O N 
+Co N S Ta N Tl Y 
+C O N S Ta N Tl Y 
+Co N S Te Rn At I O N 
+C O N S Te Rn At I O N 
+Co N S U B S Ta N Ti At I O N 
+C O N S U B S Ta N Ti At I O N 
+Co N Te 
+C O N Te 
+Co N Te Mn 
+C O N Te Mn 
+Co N Te Mn Er 
+C O N Te Mn Er 
+Co N Te N Ti O U S 
+C O N Te N Ti O U S 
+Co N Te N Tl Y 
+C O N Te N Tl Y 
+Co N Te N Ts 
+C O N Te N Ts 
+Co N Ti N Ge N C Y 
+C O N Ti N Ge N C Y 
+Co N Ti N Ge N Tl Y 
+C O N Ti N Ge N Tl Y 
+Co N Ti N U Er 
+C O N Ti N U Er 
+Co N Ti N U O 
+C O N Ti N U O 
+Co N Ti N U O U S 
+C O N Ti N U O U S 
+Co N V Er Ge 
+C O N V Er Ge 
+Co N V I C Ti O N 
+C O N V I C Ti O N 
+Co N V I V I Al 
+C O N V I V I Al 
+Co N V O Lu Ti O N 
+C O N V O Lu Ti O N 
+Co N V O Y 
+C O N V O Y 
+Co O 
+C O O 
+Co O K 
+C O O K 
+Co O K B O O K 
+C O O K B O O K 
+Co O K Er Y 
+C O O K Er Y 
+Co O K Y 
+C O O K Y 
+Co O N 
+C O O N 
+Co O P 
+C O O P 
+Co O P Er 
+C O O P Er 
+Co O P Er At I O N 
+C O O P Er At I O N 
+Co P 
+C O P 
+Co P I O U S 
+C O P I O U S 
+Co P P Er 
+C O P P Er 
+Co P P Er Y 
+C O P P Er Y 
+Co P Y 
+C O P Y 
+Co Ra 
+C O Ra 
+Co Re 
+C O Re 
+Co Rn 
+C O Rn 
+Co Rn I S H 
+C O Rn I S H 
+Co Rn Y 
+C O Rn Y 
+Co S S Ac K 
+Co S Y 
+Co Te 
+C O Te 
+Co U C H 
+C O U C H 
+Co U N Te Ra C Ti O N 
+C O U N Te Ra C Ti O N 
+Co U N Te S S 
+C O U N Te S S 
+Co U N Tl Es S 
+C O U N Tl Es S 
+Co U P 
+C O U P 
+Co U Ra Ge 
+C O U Ra Ge 
+Co U Ra Ge O U S 
+C O U Ra Ge O U S 
+Co U Th 
+C O U Th 
+Co V Er 
+C O V Er 
+Co V Er Tl Y 
+C O V Er Tl Y 
+Co W 
+C O W 
+Co W Er 
+C O W Er 
+Co W Li C K 
+C O W Li C K 
+Co Y O Te 
+C O Y O Te 
+Cr Ac K 
+C Ra C K 
+Cr Ac K Er 
+C Ra C K Er 
+Cr Ag 
+Cr Ag 
+Cr Am 
+Cr Am 
+Cr As H 
+C Ra S H 
+Cr As S 
+C Ra S S 
+Cr At Er 
+Cr At Er 
+Cr Es S 
+C Re S S 
+Cr Es Tl Es S 
+C Re S Tl Es S 
+Cr U N C H 
+C Ru N C H 
+Cr U P P Er 
+C Ru P P Er 
+Cr U S H 
+C Ru S H 
+Cr U Tc H 
+C Ru Tc H 
+Cu B 
+C U B 
+Cu C K O O 
+C U C K O O 
+Cu Es Ta 
+C U Es Ta 
+Cu F F 
+C U F F 
+Cu P 
+C U P 
+Cu Ra C Y 
+C U Ra C Y 
+Cu Ra Te 
+C U Ra Te 
+Cu Ra Ti O N 
+C U Ra Ti O N 
+Cu Rb 
+C U Rb 
+Cu Re 
+C U Re 
+Cu S H I Te 
+C U S H I Te 
+Cu S P 
+C U S P 
+Cu Te 
+C U Te 
+Cu Tl As S 
+C U Tl As S 
+Cu Tl Er 
+C U Tl Er 
+C Y Pr Es S 
+C Y P Re S S 
+C Y Pr U S 
+C Y P Ru S 
+C Y S Ti C 
+Dy Er 
+Dy Na Mo 
+Dy N Am O 
+Dy Na S Ti C 
+Dy N As Ti C 
+Er As Er 
+Er As U Re 
+Er I Ca 
+Er I Ca 
+Er In 
+Er I N 
+Er Os 
+Er O S 
+Er O Ti C 
+Er O Ti C I Sm 
+Er O Ti C I Sm 
+Er Ra N C Y 
+Er Ra Nd 
+Er Ra Nd 
+Er Ra Ta 
+Er Ra Ti C 
+Er Se 
+Er Se 
+Er U Pt 
+Er U Pt 
+Er U Pt I O N 
+Er U P Ti O N 
+Es K I Mo 
+Es O P H Ag U S 
+Es Pa Li Er 
+Es P Al I Er 
+Es P I O Na Ge 
+Es P I O Na Ge 
+Es P Y 
+Es Ta Te 
+Eu C H Re 
+Eu Ge Ni C 
+Eu Ge N I C 
+Eu N U C H 
+Eu P Ho N Y 
+Eu P H O N Y 
+Eu P H U I Sm 
+Eu P H U I Sm 
+Eu P H U I S Ti C 
+F 
+F Ac I Al 
+F Ac I Li Ta Te 
+F Ac I Li Ta Ti O N 
+F Ac Ti O N 
+F Ac Ti Ti O U S 
+F Ag 
+F Al Co N 
+F Al C O N 
+F Al La C I O U S 
+F Al La C Y 
+F Al Se 
+F Al Se 
+F Al Si F I Er 
+F Al S I F I Er 
+F Al Si F Y 
+F Al S I F Y 
+F Am I Li Ar 
+F Am O U S 
+F Ar 
+F Ar Ce 
+F Ar Ce 
+F Ar O 
+F Ar Th Er 
+F As Ce S 
+F As C Es 
+F As Te N 
+F At 
+F At Al I Sm 
+F At Al I Sm 
+F At Al I S Ti C 
+F At Ba C K 
+F At B Ac K 
+F At Te N 
+F At Ti Ne S S 
+F At Ti N Es S 
+F At Ti S H 
+F Au B O U Rg 
+F Au Ce S 
+F Au C Es 
+F Au N 
+F Au Na 
+F Au Na 
+Fe Rn 
+F Er N 
+Fe Rn Y 
+F Er N Y 
+Fe S Ti V Al 
+F Es Ti V Al 
+F I As Co 
+F I As C O 
+F I B 
+F I B U La 
+F I C He 
+F I C He 
+F I C H U 
+F I C Ti O N 
+F I C Ti Ti O U S 
+F I Cu S 
+F I C U S 
+F I Er In Es S 
+F I Es Ta 
+F I Fe 
+F I Fe 
+F I F Th 
+F I Li P In O 
+F In 
+F I N 
+F In C H 
+F I N C H 
+F In I Al 
+F In I S 
+F In I S H 
+F In I Te 
+F In N 
+F I N N 
+F In N Y 
+F I N N Y 
+F Ir 
+F Ir 
+F Ir Er 
+F Ir Er 
+F I Sc Al 
+F I S H 
+F I S H Ho O K 
+F I S H H O O K 
+F I S H In Es S 
+F I S H W I Fe 
+F I S H W I Fe 
+F I S Si O N 
+F I S S I O N 
+F I S S U Re 
+F I S Ti Cu F F 
+F I S Ti C U F F 
+F I Tl Y 
+Fl Ac O N 
+Fl Ag 
+Fl Ag 
+Fl As H 
+F La S H 
+Fl As K 
+F La S K 
+Fl At 
+Fl At 
+Fl At B O At 
+F La Tb O At 
+Fl I C K 
+F Li C K 
+Fl I C K Er 
+F Li C K Er 
+Fl I Er 
+F Li Er 
+Fl I P 
+F Li P 
+Fl I P P Er 
+F Li P P Er 
+Fl U F F 
+F Lu F F 
+Fl U F F Y 
+F Lu F F Y 
+Fl U K Y 
+F Lu K Y 
+Fl U N K 
+F Lu N K 
+Fl U S H 
+F Lu S H 
+Fl U Te 
+F Lu Te 
+Fl U V I Al 
+F Lu V I Al 
+F O Al 
+F O Am 
+F O Am Y 
+F O B 
+F O Cu S 
+F O C U S 
+F Og 
+F Og 
+F O Li O 
+F O Nd 
+F O Nd 
+F O O Tl Es S 
+F O P 
+F O P P I S H 
+F O Ra Ge 
+F O Ra Y 
+F O Ra Y Er 
+F O Rb O Re 
+F O Re 
+F O Re Ga Th Er 
+F O Re K No W 
+F O Re K N O W 
+F O Re No O N 
+F O Re N O O N 
+F O Re N Si C 
+F O Re N S I C 
+F O Re S K In 
+F O Re S K I N 
+F O Re Ta S Te 
+F O Re W Ar N 
+F O Rg Er 
+F O Rg I V Er 
+F O Rg O 
+F O Rn I Ca Te 
+F O Rn I Ca Te 
+F O U Nd 
+F O U Nd 
+Fr Ac As 
+Fr Ac Ti O N 
+F Ra C Ti O N 
+Fr Ac Ti O U S 
+F Ra C Ti O U S 
+Fr Au 
+F Ra U 
+Fr Es H 
+F Re S H 
+Fr U C Ti F Y 
+F Ru C Ti F Y 
+Fr U I Ti O N 
+F Ru I Ti O N 
+F U Ga C I O U S 
+F U Ga C I O U Sn Es S 
+F U Lv O U S 
+F U N 
+F U N C Ti O N 
+F U Nd 
+F U Nd 
+F U N K 
+F U N K Y 
+F U N N Y 
+F U Rb I S H 
+F U Rn I S H 
+F U Sc O U S 
+F U Se 
+F U Se 
+F U Si O N 
+F U S I O N 
+F U S S 
+F U S S Y 
+F U S Ti Ne S S 
+F U S Ti N Es S 
+Ga B 
+Ga F F 
+Ga Ge 
+Ga In 
+Ga I N 
+Ga In Er 
+Ga La 
+Ga N Ge Ti C 
+Ga P 
+Ga Ra Ge 
+Ga Rb 
+Ga Rn Er 
+Ga Rn I S H 
+Ga Sc O N 
+Ga S H 
+Ga S O Li Ne 
+Ga S O Li Ne 
+Ga S P 
+Ga S S Y 
+Ga Te 
+Ga Th Er 
+Ga Th Er Er 
+Ga U C He 
+Ga U C He 
+Ga U C Ho 
+Ga U C H O 
+Ga U Dy 
+Ga U Ge 
+Ga U Li S H 
+Ga U N Tl Y 
+Ga W K 
+Ga W K Y 
+Ga Y 
+Ga Y Ne S S 
+Ga Y N Es S 
+Ge Ar 
+Ge C K O 
+Ge La Ti Ne 
+Ge La Ti Ne 
+Ge La Ti No U S 
+Ge La Ti N O U S 
+Ge Ne Ra 
+Ge Ne Ra 
+Ge Ne Ra Te 
+Ge Ne Ra Te 
+Ge Ne Ra Ti O N 
+Ge N Er At I O N 
+Ge Ni Al 
+Ge N I Al 
+Ge Ni Ti V Al 
+Ge N I Ti V Al 
+Ge N Re 
+Ge N S 
+Ge N Tl Y 
+Ge N U S 
+Ge O Rg I C 
+Ge Ru Nd 
+Ge Ru Nd 
+Ge S Ti Cu La Te 
+Ge S Ti C U La Te 
+Ge W Ga W 
+H 
+H Ac K 
+H Ac K Am O Re 
+H Ac K Er 
+H Ac K Er Y 
+H Ag 
+H Al C Y O N 
+H Al F 
+H Al I Te 
+H Al Lu C In At I O N 
+H Al O 
+H Al S 
+H Al V Es 
+H Am 
+H Am Al 
+H Am B U Rg 
+H Am I Te 
+H Am I Ti C 
+H Am Mo C K 
+H Am P Er 
+H Ar As S 
+H Ar B O Ra Ge 
+H Ar Ds H I P 
+H Ar Dy 
+H Ar K 
+H Ar Mo Ni C 
+H Ar Mo N I C 
+H Ar Mo N Y 
+H Ar P 
+H Ar Po O N 
+H Ar P O O N 
+H Ar P Y 
+H Ar S H 
+H Ar S H Ne S S 
+H Ar S H N Es S 
+H As 
+H As H 
+H As P 
+H As Te 
+H As Te N 
+H As Ti Ne S S 
+H As Ti N Es S 
+H At 
+H At C H 
+H At Er 
+H At H 
+H Au La Ge 
+He Rb Al 
+He Rb I V O Re 
+He Rb Y 
+H Er B Y 
+He Re 
+He Re 
+He Re S Y 
+H Er Es Y 
+He Rn I Al 
+H I At U S 
+H I Be Rn At I O N 
+H I Er At I C 
+H I Er O Cr Ac Y 
+H I Er O C Ra C Y 
+H I F Al U Ti N 
+H In Ge 
+H I N Ge 
+H I P 
+H Ir Er 
+H Ir Er 
+H I Tc H 
+Ho Ar 
+H O Ar 
+Ho Ar Y 
+H O Ar Y 
+Ho B 
+H O B 
+Ho B B Y 
+H O B B Y 
+Ho B O 
+H O B O 
+Ho C K 
+H O C K 
+Ho Mo Ge N Y 
+H O Mo Ge N Y 
+Ho N K 
+H O N K 
+Ho O F 
+H O O F 
+Ho O K 
+H O O K 
+Ho O K Er 
+H O O K Er 
+Ho O K Y 
+H O O K Y 
+Ho O P 
+H O O P 
+Ho P 
+H O P 
+Ho P P Er 
+H O P P Er 
+Ho Rn 
+H O Rn 
+Ho S Ta Ge 
+Ho S Te Lr Y 
+Ho S Tl Er 
+Ho U Rg La S S 
+H O U Rg La S S 
+Ho V Er 
+H O V Er 
+Ho W Dy 
+H O W Dy 
+H U B 
+H U B B U B 
+H U B B Y 
+H U F F 
+H U F F In Es S 
+H U Ge 
+H U N 
+H U N C H Ba C K 
+H U N C H B Ac K 
+H U N K 
+H U N K Er 
+H U N K Er S 
+H U N K Y 
+H U S H 
+H U S K 
+H U S K Y 
+H U S S Ar 
+H U S S Y 
+H U Tc H 
+H Y Ac In Th 
+H Y Ac I N Th 
+H Y Mn 
+H Y Mn Al 
+H Y P Er B O La 
+H Y P Er B O Li Sm 
+H Y P Er B O Li Sm 
+H Y Po 
+H Y P O 
+H Y Po Th Es I S 
+H Y P O Th Es I S 
+H Y S S O P 
+I 
+I Am B 
+I Am Bi C 
+I Am B I C 
+I Am B U S 
+I Bi S 
+I B I S 
+I C H Th Y Os Au Ru S 
+I C H Th Y O S Au Ru S 
+I C In Es S 
+I Co N 
+I C O N 
+I F 
+I Li Ac 
+In 
+I N 
+In Ac Ti O N 
+In Am O Ra Ta 
+In Au S P I C I O U S 
+In B O Rn 
+In C H 
+I N C H 
+In C I Te 
+I N C I Te 
+In F Am O U S 
+I N F Am O U S 
+In F Am Y 
+I N F Am Y 
+In F Ar C Ti O N 
+I N F Ar C Ti O N 
+In F At U At I O N 
+I N F At U At I O N 
+In Ge S Ti O N 
+I N Ge S Ti O N 
+In H Al At I O N 
+In I Ti Al 
+In K 
+I N K 
+In K Y 
+I N K Y 
+In La Y 
+I N La Y 
+In N 
+I N N 
+In Ru S H 
+I N Ru S H 
+In S Ta Te 
+I N S Ta Te 
+In S Ti Ga Te 
+I N S Ti Ga Te 
+In S Ti Ga Ti O N 
+I N S Ti Ga Ti O N 
+In S U B S Ta N Ti Al 
+I N S U B S Ta N Ti Al 
+In S U La Te 
+I N S U La Te 
+In S U La Ti O N 
+I N S U La Ti O N 
+In S U Re 
+I N S U Re 
+In Te N Ti O N 
+I N Te N Ti O N 
+In Te N Tl Y 
+I N Te N Tl Y 
+In Te Rf Ac I Al 
+I N Te Rf Ac I Al 
+In Te Rf Er Er 
+I N Te Rf Er Er 
+In Te Rn 
+I N Te Rn 
+In Te Rn Al 
+I N Te Rn Al 
+In Te S Ta C Y 
+I N Te S Ta C Y 
+In Te S Ta Te 
+I N Te S Ta Te 
+In U Re 
+I N U Re 
+In V Es Ti Ga Te 
+I N V Es Ti Ga Te 
+In V Es Ti Ga Ti O N 
+I N V Es Ti Ga Ti O N 
+In V I O La C Y 
+I N V I O La C Y 
+In V I Te 
+I N V I Te 
+In V O Lu Te 
+I N V O Lu Te 
+In V O Lu Ti O N 
+I N V O Lu Ti O N 
+In W Ar Ds 
+I N W Ar Ds 
+I O N 
+I O Ni C 
+I O N I C 
+I S 
+I Si S 
+I S I S 
+I S La Nd 
+I S La Nd 
+I Sm 
+I Sm 
+I S O La Te 
+I S O La Ti O N 
+I S Os Ta S Y 
+I S O S Ta S Y 
+I S Os Ta Ti C 
+I S O S Ta Ti C 
+I S S U Er 
+I Ta Li C 
+I Tc H 
+I Tc H In Es S 
+I Tc H Y 
+I Te Ra Te 
+I Te Ra Ti O N 
+I Ti Ne Ra C Y 
+I Ti N Er Ac Y 
+I Ts 
+I V Y 
+K 
+K Er At In 
+K Er At I N 
+K Er B 
+K Er F 
+K Er N 
+K I C K 
+K I C K Er 
+K In 
+K I N 
+K In K 
+K I N K 
+K In S H I P 
+K I N S H I P 
+K I Os K 
+K I O S K 
+K I P 
+K I P P Er 
+K I Te 
+K I Th 
+K Ni C K Er B O C K Er 
+K N I C K Er B O C K Er 
+K Ni C K Er B O C K Er S 
+K N I C K Er B O C K Er S 
+K Ni V Es 
+K N I V Es 
+K No B 
+K N O B 
+K No C K Er 
+K N O C K Er 
+K No W 
+K N O W 
+K No W Er 
+K N O W Er 
+K No W N 
+K N O W N 
+K O Li N S K Y 
+K O Ra N 
+La B 
+La Bi Al 
+La B I Al 
+La C 
+La Ce 
+La Ce 
+La Ce Ra Te 
+La Ce Ra Te 
+La C K 
+La C Ta Te 
+La C Ta Ti O N 
+La C Te Al 
+La C Ti C 
+La Dy 
+La Dy S H I P 
+La I C 
+La In 
+La I N 
+La N Ce 
+La N Ce 
+La Nd 
+La Nd 
+La Ne 
+La Ne 
+La N K 
+La N K In Es S 
+La N K Ne S S 
+La N K N Es S 
+La N K Y 
+La No Li N 
+La N O Li N 
+La N Te Rn 
+La P 
+La P P 
+La P P I S H 
+La P Se 
+La P Se 
+La Re S 
+La Rg I S H 
+La Rg O 
+La Sc Ar 
+La S H 
+La S S 
+La S S O 
+La Tc H 
+La Te N C Y 
+La Te Ne S S 
+La Te N Es S 
+La Te N Tl Y 
+La Th 
+La Th Er 
+La Ti N 
+La Ti S H 
+La U N C H 
+La U Ra 
+La U Re At Es H I P 
+La V I S H 
+La V I S H Ne S S 
+La V I S H N Es S 
+La W 
+La W N 
+La W Y Er 
+La Y 
+La Y Er 
+Li Ar 
+Li B 
+Li Ba Ti O N 
+Li B At I O N 
+Li Be Ra Li S Ti C 
+Li B Er Al I S Ti C 
+Li Be Ra Te 
+Li Be Ra Te 
+Li Be Ra Ti O N 
+Li B Er At I O N 
+Li Ce 
+Li Ce 
+Li C K 
+Li C K Er 
+Li Eu 
+Li Fe 
+Li Fe 
+Li Ga Te 
+Li La C 
+Li Mn Er 
+Li Mo Ge S 
+Li Mo Ni Te 
+Li Mo N I Te 
+Li Na Ge 
+Li Na Ge 
+Li N C H P In 
+Li N C H P I N 
+Li Ne 
+Li Ne 
+Li N K 
+Li N K S 
+Li O N 
+Li O Ne S S 
+Li O N Es S 
+Li P 
+Li Ra 
+Li Sb O N 
+Li S B O N 
+Li S P 
+Li S P Er 
+Li S Te N 
+Li S Tl Es S 
+Li Ta N Y 
+Li Tc H I 
+Li Te 
+Li Te Ra C Y 
+Li Te Ra Li Sm 
+Li Te Ra Li Sm 
+Li Te Ra Te 
+Li Te Ra Ti 
+Li Ti Ga Te 
+Li Ti Ga Ti O N 
+Li Tm U S 
+Li V Er 
+Li V Er Y 
+Li V Es 
+Li V Re 
+Lu Ce 
+Lu Ce 
+Lu C K 
+Lu F F 
+Lu Na Ti C 
+Lu N At I C 
+Lu N C H 
+Lu N Ge 
+Lu N U La 
+Lu Pu S 
+Lu P U S 
+Lu Re 
+Lu S H 
+Lu S Ti Ne S S 
+Lu S Ti N Es S 
+Lu Te 
+Lu Xe 
+Mo At 
+Mo B 
+Mo C K 
+Mo C K Er 
+Mo La S Se S 
+Mo La S S Es 
+Mo Na 
+Mo Na 
+Mo Na S Ti C 
+Mo N As Ti C 
+Mo Ni S Ti C 
+Mo N I S Ti C 
+Mo Ni Ti O N 
+Mo N I Ti O N 
+Mo N K 
+Mo N K I S H 
+Mo No 
+Mo N O 
+Mo No Dy 
+Mo N O Dy 
+Mo No Ga Mo U S 
+Mo No Li Th 
+Mo N O Li Th 
+Mo No Li Th I C 
+Mo N O Li Th I C 
+Mo N S O O N 
+Mo N Te 
+Mo N Th 
+Mo O 
+Mo O Dy 
+Mo O N 
+Mo O N S H In Er 
+Mo O Ra Ge 
+Mo P 
+Mo P I S H 
+Mo Ra S S 
+Mo Ra Y 
+Mo Re 
+Mo Re O V Er 
+Mo Re S 
+Mo Rn 
+Mo Se S 
+Mo S Es 
+Mo S S 
+Mo S Sb Ac K 
+Mo S Tl Y 
+Mo Te 
+Mo Th 
+Mo Th Er 
+Mo Th Er La Nd 
+Mo Th Er La Nd 
+Mo Th Er Li Ne S S 
+Mo Th Er Li N Es S 
+Mo Ti F 
+Mo Ti O N 
+Mo U Nd 
+Mo U Nd 
+Mo U N Ta In 
+Mo U N Ta I N 
+Mo U Se 
+Mo U Se 
+Mo U S Se 
+Mo U S Se 
+Mo U S Ta C He 
+Mo U S Ta C He 
+Mo U S Y 
+Mo U Th 
+Mo W 
+Mo W Er 
+Mo W N 
+N 
+Na Re S 
+N Ar Es 
+Na S Al 
+N As Al 
+Na S H 
+N As H 
+Na Te S 
+N At Es 
+Na Ti O N 
+N At I O N 
+Na Ti V I S Ti C 
+N At I V I S Ti C 
+Na U Ti Lu S 
+N Au Ti Lu S 
+Ne 
+Ne 
+Ne S S 
+N Es S 
+Ni B 
+N I B 
+Ni C K 
+N I C K 
+Ni C Ta Te 
+N I C Ta Te 
+Ni C Ti Ta Te 
+N I C Ti Ta Te 
+Ni C Ti Ta Ti O N 
+N I C Ti Ta Ti O N 
+Ni H I Li S Ti C 
+N I H I Li S Ti C 
+Ni N N Y 
+Ni P 
+N I P 
+Ni P P Er S 
+N I P P Er S 
+No 
+N O 
+No N S U C H 
+N O N S U C H 
+No O K 
+N O O K 
+No O N 
+N O O N 
+No Te 
+N O Te 
+No U N 
+N O U N 
+No U S 
+N O U S 
+No W 
+N O W 
+N U B 
+N U B Bi N 
+N U Pt I Al 
+N U P Ti Al 
+N U Ta Ti O N 
+N U Th At C H 
+O 
+O Ar 
+O As I S 
+O At H 
+O B F U Sc At I O N 
+O B La Te 
+O B La Te Ne S S 
+O B La Te N Es S 
+O B Li Ga Ti O N 
+O B Li Te Ra Te 
+O B Li Te Ra Ti O N 
+O B Sc U Re 
+O B Se S S 
+O B S Es S 
+O B Ta In Er 
+O B V Er Se 
+O B V Er Se 
+O B V I At I O N 
+O B V I O U S 
+O C H Re 
+O C H Re O U S 
+O C Ta Ne 
+O C Ta Ne 
+O C Ta V O 
+O F 
+O F F 
+O F F I Ce 
+O F F I Ce 
+O F F I C I Al 
+O F F I C I Al I Sm 
+O F F I C I Al I Sm 
+O F F I S H 
+O F F S Ho Re 
+O F F S H O Re 
+O F Te N 
+O H 
+O Ho 
+O H O 
+O I Li Ne S S 
+O I Li N Es S 
+O Li O 
+O Li V Er 
+O Mn I B U S 
+O Mn I Po Te N Tl Y 
+O Mn I P O Te N Tl Y 
+O N 
+O N Ce 
+O N Ce 
+O Ne 
+O Ne 
+O Ni O N 
+O N I O N 
+O N Ru S H 
+O N U S 
+O N W Ar Ds 
+O O 
+O P Er At I O N 
+O P H I U C H U S 
+O P In I O N 
+O Pt I O N 
+O P Ti O N 
+O Pu S 
+O P U S 
+O Ra N Ge 
+O Ra Ti O N 
+O Rb 
+O Re 
+O Rg I As Ti C 
+O Rg Y 
+Os C I Ta Ti O N 
+Os I Er 
+Os Mo Ti C 
+Os S U Ar Y 
+O S S U Ar Y 
+Os Te I Ti S 
+O S Te I Ti S 
+Os Te N Ta Ti O U S 
+O S Te N Ta Ti O U S 
+Os Tl Er 
+O S Tl Er 
+O Th Er 
+O Ti S 
+O Ti Ti S 
+O U C H 
+O U N Ce 
+O U N Ce 
+O U Tb O U Nd 
+O U Tb O U Nd 
+O U Th O U Se 
+O U Th O U Se 
+O U Ts Ta Y 
+O V Al 
+O V Ar Y 
+O V At I O N 
+O V Er 
+O V Er Ca U Ti O U S 
+O V Er C Au Ti O U S 
+O V Er C H Ar Ge 
+O V Er Co At 
+O V Er C O At 
+O V Er F O Nd 
+O V Er F O Nd 
+O V Er La Nd 
+O V Er La Nd 
+O V Er La P 
+O V Er La V I S H 
+O V Er La Y 
+O V Er Pa S S 
+O V Er P As S 
+O V Er Po W Er 
+O V Er P O W Er 
+O V Er Ra Te 
+O V Er Re Ac H 
+O V Er Ru N 
+O V Er S Ta Te 
+O V Er S Ta Y 
+O V Er S Te P 
+O V Er Ti Re 
+O V Er Tl Y 
+O V Er V Al U At I O N 
+O V U La Te 
+O V U La Ti O N 
+O W Li S H 
+O W N 
+P 
+Pa 
+Pa 
+Pa C 
+P Ac 
+Pa C I F I C 
+P Ac I F I C 
+Pa C I F I Er 
+P Ac I F I Er 
+Pa C I F Y 
+P Ac I F Y 
+Pa C K 
+P Ac K 
+Pa C K Er 
+P Ac K Er 
+Pa Ge 
+Pa Ge 
+Pa La Te 
+Pa La Te 
+Pa La Ti Al 
+P Al At I Al 
+Pa Li S H 
+P Al I S H 
+Pa Ra 
+Pa Ra 
+Pa Ra C H U Te 
+P Ar Ac H U Te 
+Pa Ra Ta C Ti C 
+P Ar At Ac Ti C 
+Pa Rn As S U S 
+Pa S S 
+P As S 
+Pa S Te 
+P As Te 
+Pa Tc H 
+P At C H 
+Pa Tc H Y 
+P At C H Y 
+Pa Te 
+Pa Te 
+Pa Te Rf Am I Li As 
+P At Er F Am I Li As 
+Pa Th 
+P At H 
+Pa Ti O 
+P At I O 
+Pa U N C H 
+P Au N C H 
+Pa U N C H Y 
+P Au N C H Y 
+Pa U P Er 
+P Au P Er 
+P Er 
+P Er Am B U La Te 
+P Er C H 
+P Er Co La Te 
+P Er C O La Te 
+P Er Co La Ti O N 
+P Er C O La Ti O N 
+P Er F I Dy 
+P Er F O Ra Te 
+P Er F U Se 
+P Er F U Se 
+P Er F U Si O N 
+P Er F U S I O N 
+P Er I P H Ra Si S 
+P Er I P H Ra S I S 
+P Er I Sc O P I C 
+P Er I S H 
+P Er K 
+P Er K Y 
+P Er Li Te 
+P Er Ni C I O U S 
+P Er N I C I O U S 
+P Er O Ra Te 
+P Er O Ra Ti O N 
+P Er Se U S 
+P Er S Eu S 
+P Er Si S Te N Tl Y 
+P Er S I S Te N Tl Y 
+P Er S O N 
+P Er S O Na 
+P Er S O Na 
+P Er S O Na Te 
+P Er S O Na Te 
+P Er S O Ni F I Er 
+P Er S O N I F I Er 
+P Er Tl Y 
+P Er V As I O N 
+P Er V Er Si O N 
+P Er V Er S I O N 
+P Er V I O U S 
+P Er V I O U Sn Es S 
+P Es K Y 
+P Es O 
+P H Ag O C Y Te 
+P H Al Li C 
+P H Al Li C I Sm 
+P H Al Li C I Sm 
+P H Al Li Sm 
+P H Al Li Sm 
+P H Al Lu S 
+P H Ar Os 
+P H Ar O S 
+P H Ar Y N Ge Al 
+P H I Al 
+P H I La Te Li C 
+P Ho S P H At I C 
+P Ho Ti C 
+P H O Ti C 
+P H Ra S Al 
+P H Ra Se 
+P H Ra Se 
+P H Re Ni C 
+P H Re N I C 
+P I 
+P I C 
+P I Ca 
+P I Ca 
+P I Ce 
+P I Ce 
+P I C K 
+P I C K Er 
+P I Cn I C 
+P I Cn I C K Er 
+P I Er Ce 
+P I Er Ce 
+P I Ge O N 
+P I La U 
+P In 
+P I N 
+P In C H 
+P I N C H 
+P In I O N 
+P In K 
+P I N K 
+P In K I S H 
+P I N K I S H 
+P In K Y 
+P I N K Y 
+P In Y 
+P I N Y 
+P I P 
+P I P Er 
+P Ir Ac Y 
+P I Ra C Y 
+P Ir At I C 
+P I Ra Ti C 
+P I Sc Es 
+P I S S 
+P I S Ta C H I O 
+P I Tc H 
+P I Th 
+P I Th In Es S 
+P La Ca Te 
+P La Ca Te 
+P La Ca Ti O N 
+P La C At I O N 
+P La Ce 
+P La Ce 
+P La In 
+P La I N 
+P La In Ti F F 
+P La I N Ti F F 
+P La Ne 
+P La Ne 
+P La N Ge N C Y 
+P La N K 
+P La N Ta In 
+P La N Ta I N 
+P La S H 
+P La Sm 
+P La Sm 
+P La S Ti C 
+P La Te 
+P La Yb O O K 
+P La Y B O O K 
+P Li Er S 
+P Li N Th 
+P Lu C K 
+P Lu C K In Es S 
+P Lu C K Y 
+P Lu Ra Li Sm 
+P Lu Ra Li Sm 
+P Lu S 
+P Lu S H 
+P Lu S H Y 
+P Lu V I Al 
+Po Ac H 
+P O Ac H 
+Po C K 
+P O C K 
+Po I 
+P O I 
+Po I S O N 
+P O I S O N 
+Po K Er 
+P O K Er 
+Po Li C Y 
+P O Li C Y 
+Po Li S H 
+P O Li S H 
+Po Li Te 
+P O Li Te 
+Po Li Ti C 
+P O Li Ti C 
+Po N S 
+P O N S 
+Po N Ti C 
+P O N Ti C 
+Po N Ti F F 
+P O N Ti F F 
+Po O H 
+P O O H 
+Po O P 
+P O O P 
+Po O Rn Es S 
+P O O Rn Es S 
+Po P 
+P O P 
+Po P Li N 
+P O P Li N 
+Po P P Er 
+P O P P Er 
+Po P P Y 
+P O P P Y 
+Po Re 
+P O Re 
+Po S Ta Ge 
+Po S Te Rn 
+Po S Th As Te 
+Po S Ti Li O N 
+Po S Tm Ar K 
+Po S Y 
+Po Ta Ge 
+P O Ta Ge 
+Po Te N C Y 
+P O Te N C Y 
+Po Te N Ta Te 
+P O Te N Ta Te 
+Po Te N Ti Al 
+P O Te N Ti Al 
+Po Te N Tl Y 
+P O Te N Tl Y 
+Po Th Er 
+P O Th Er 
+Po Ti O N 
+P O Ti O N 
+Po Tl U C K 
+P O Tl U C K 
+Po W Er 
+P O W Er 
+Pr At Er 
+Pr At Er 
+Pr Es Ag Er 
+P Re S Ag Er 
+Pr Es B Y O P I C 
+Pr Es B Y Te Ra Te 
+Pr Es S 
+P Re S S 
+Pr Es S U Re 
+P Re S S U Re 
+P S Al Mo Dy 
+P S Y C He 
+P S Y C He 
+P S Y C H I Cs 
+P S Y C H I C S 
+P S Y C H I Sm 
+P S Y C H I Sm 
+Pu C K 
+P U C K 
+Pu C K Er 
+P U C K Er 
+Pu C K I S H 
+P U C K I S H 
+Pu Er P Er Al 
+P U Er P Er Al 
+Pu F F 
+P U F F 
+Pu N 
+P U N 
+Pu N C H 
+P U N C H 
+Pu N C H Y 
+P U N C H Y 
+Pu N C Ti Li O 
+P U N C Ti Li O 
+Pu N C Ti Li O U S 
+P U N C Ti Li O U S 
+Pu N Ge N C Y 
+P U N Ge N C Y 
+Pu N Ge N Tl Y 
+P U N Ge N Tl Y 
+Pu N Y 
+P U N Y 
+Pu P 
+P U P 
+Pu P P Y 
+P U P P Y 
+Pu Re 
+P U Re 
+Pu Rg At I O N 
+P U Rg At I O N 
+Pu Rg Er 
+P U Rg Er 
+Pu S 
+P U S 
+Pu S H 
+P U S H 
+Pu S S Y 
+P U S S Y 
+P Y Re 
+P Y Re Ti C 
+P Y Th O N 
+P Y Th O Ne S S 
+P Y Th O N Es S 
+Ra 
+Ra B Bi 
+Ra B B I 
+Ra Bi Es 
+Ra B I Es 
+Ra C Co O N 
+Ra C C O O N 
+Ra Ce 
+Ra Ce 
+Ra C H I Ti C 
+Ra C H I Ti S 
+Ra C I Al 
+Ra C In Es S 
+Ra C K 
+Ra F F I S H 
+Ra Ge 
+Ra In 
+Ra I N 
+Ra In B O W 
+Ra In Y 
+Ra I N Y 
+Ra I Se 
+Ra I Se 
+Ra K Er 
+Ra K I S H 
+Ra K I S H Ne S S 
+Ra K I S H N Es S 
+Ra N 
+Ra N C H 
+Ra Nd 
+Ra Nd 
+Ra N Ge 
+Ra Ni 
+Ra N I 
+Ra N K 
+Ra N K Ne S S 
+Ra N K N Es S 
+Ra N S Ac K 
+Ra P 
+Ra P I Er 
+Ra Pt 
+Ra Pt 
+Ra Re 
+Ra Re F Ac Ti O N 
+Ra Re F Y 
+Ra Re Ne S S 
+Ra Re N Es S 
+Ra Sc Al 
+Ra S H 
+Ra S H Ne S S 
+Ra S H N Es S 
+Ra S P Y 
+Ra Te 
+Ra Th Er 
+Ra Ti F I Ca Ti O N 
+Ra Ti F I C At I O N 
+Ra Ti F I Er 
+Ra Ti F Y 
+Ra Ti O 
+Ra Ti O C In At I O N 
+Ra Ti O N 
+Ra U Co U S 
+Ra U C O U S 
+Ra V Ag Er 
+Ra W 
+Ra W Ne S S 
+Ra W N Es S 
+Ra Y 
+Ra Y O N 
+Re 
+Re Ac H 
+Re Ac Ta N Ce 
+Re Ac Ta N Ce 
+Re Ac Ti O N 
+Re Al 
+Re Al I Sm 
+Re Al I Sm 
+Re Al I S Ti C 
+Re Al Ne S S 
+Re Al N Es S 
+Re Am 
+Re Am Er 
+Re Ar 
+Re Ar Ra N Ge 
+Re As O N 
+Re As S U Ra N Ce 
+Re As S U Ra N Ce 
+Re At Ta C H 
+Re At Ta In 
+Re At Ta I N 
+Re Ba Te 
+Re Ba Te 
+Re B O Rn 
+Re B O U Nd 
+Re B O U Nd 
+Re B U F F 
+Re B U S 
+Re Ce S S 
+Re C Es S 
+Re C I Ta Ti O N 
+Re C I Te 
+Re Co P Y 
+Re C O P Y 
+Re Co V Er 
+Re C O V Er 
+Re Co V Er Y 
+Re C O V Er Y 
+Re C Ti F I Ca Ti O N 
+Re C Ti F I C At I O N 
+Re C Ti F Y 
+Re Cu P Er At I O N 
+Re C U P Er At I O N 
+Re Es Ta B Li S H 
+Re F As H I O N 
+Re F As Te N 
+Re F In Er 
+Re F O U Nd 
+Re F O U Nd 
+Re Fr Es H 
+Re F Re S H 
+Re F U Ge 
+Re F U Nd 
+Re F U Nd 
+Re F U Rb I S H 
+Re F U Rn I S H 
+Re F U Se 
+Re F U Se 
+Re F U Ta Ti O N 
+Re F U Te 
+Re Ga In 
+Re Ga I N 
+Re Ga Th Er 
+Re Ge Ne Ra C Y 
+Re Ge N Er Ac Y 
+Re Ge Ne Ra Te 
+Re Ge Ne Ra Te 
+Re Ge Ne Ra Ti O N 
+Re Ge N Er At I O N 
+Re H As H 
+Re In 
+Re I N 
+Re In S Ta Te 
+Re I N S Ta Te 
+Re In V Es Ti Ga Te 
+Re I N V Es Ti Ga Te 
+Re I Te Ra Te 
+Re I Te Ra Ti O N 
+Re La P Se 
+Re La P Se 
+Re La Ti O N S H I P 
+Re La Y 
+Re Li S H 
+Re Lu C Ta N Tl Y 
+Re Mo Ra 
+Re Mo Te 
+Re Mo V Al 
+Re Mo V Er 
+Re Nd 
+Re Nd 
+Re No V At I O N 
+Re N O V At I O N 
+Re No W N 
+Re N O W N 
+Re N Ti Er 
+Re N U N C I At I O N 
+Re O C Cu P Y 
+Re O C C U P Y 
+Re P 
+Re Pa C K 
+Re P Ac K 
+Re Pa S S 
+Re P As S 
+Re P In Er 
+Re P Li Ca 
+Re P Li Ca 
+Re P Li Ca Te 
+Re P Li Ca Te 
+Re P Li Ca Ti O N 
+Re P Li C At I O N 
+Re P Li Er 
+Re Pr Es S 
+Re P Re S S 
+Re Pu B Li S H 
+Re P U B Li S H 
+Re Pu Ta Ti O N 
+Re P U Ta Ti O N 
+Re Pu Te 
+Re P U Te 
+Re Sc U Er 
+Re S H I P 
+Re Si N 
+Re S O Lu Te Ne S S 
+Re S O Lu Te N Es S 
+Re S O Lu Ti O N 
+Re S O U Nd 
+Re S O U Nd 
+Re S O W 
+Re S P Ir At I O N 
+Re S P I Ra Ti O N 
+Re S P I Te 
+Re S Ta Te 
+Re S U Sc I Ta Te 
+Re S U S C I Ta Te 
+Re S U Sc I Ta Ti O N 
+Re S U S C I Ta Ti O N 
+Re Ta Li At I O N 
+Re Tc H 
+Re Te N Ti O N 
+Re Ti Cu La Ti O N 
+Re Ti C U La Ti O N 
+Re Ti Na 
+Re Ti Na 
+Re Ti Re 
+Re U Ni Te 
+Re U N I Te 
+Re V Al U At I O N 
+Re V Am P 
+Re V Er B 
+Re V Er Be Ra Ti O N 
+Re V Er B Er At I O N 
+Re V Er S 
+Re V Er S Al 
+Re V Er Se 
+Re V Er Se 
+Re V Er Si O N 
+Re V Er S I O N 
+Re V Er Y 
+Re V I S Al 
+Re V I Se 
+Re V I Se 
+Re V I Si O N 
+Re V I S I O N 
+Re V I V Al 
+Re V I V Al I Sm 
+Re V I V Al I Sm 
+Re V I V Al I S Ti C 
+Re V I V Er 
+Re V I V I F I Ca Ti O N 
+Re V I V I F I C At I O N 
+Re V I V I F Y 
+Re V O K Er 
+Re V O Lu Ti O N 
+Re V O Lv Er 
+Rh Es U S 
+Rh In I Ti S 
+Rh In O 
+Rh U Ba Rb 
+Rh U B Ar B 
+Ru B Bi S H 
+Ru B B I S H 
+Ru B Y 
+Ru C K 
+Ru C Ti O N 
+Ru F F 
+Ru F O U S 
+Ru In 
+Ru I N 
+Ru In At I O N 
+Ru N 
+Ru Na Ga Te 
+Ru Na Ga Te 
+Ru Ne 
+Ru Ne 
+Ru Ni C 
+Ru N I C 
+Ru Se 
+Ru Se 
+Ru S H 
+Ru S Ti Ca Te 
+Ru S Ti Ca Te 
+Ru S Ti Ca Ti O N 
+Ru S Ti C At I O N 
+Ru S Ti Ne S S 
+Ru S Ti N Es S 
+S 
+S Ac 
+S Ac C H Ar In 
+S Ac C H Ar I N 
+S Ac K 
+S Ac K Er 
+S Ag 
+S Ag Am O Re 
+S Ag O 
+S Al 
+S Al Ac I O U S 
+S Al Ar Y 
+S Al I V Ar Y 
+S Al I V At I O N 
+S Al Mo N 
+S Al O N 
+S Al Ta Ti O N 
+S Al U Ta Ti O N 
+S Al U Te 
+S Al V At I O N 
+S Al V Er 
+S Al V O 
+S Am 
+S Am Ar I Ta N 
+S Am O V Ar 
+S Am S O N 
+S Am U Ra I 
+S Ar Ga S S O 
+S Ar I 
+S As H 
+S At 
+S At I At I O N 
+S At In 
+S At I N 
+S At In Y 
+S At I N Y 
+S At Ra P 
+S At U Ra Te 
+S At U Ra Ti O N 
+S At U Rn 
+S Au Ce 
+S Au Ce 
+S Au C In Es S 
+S Au Te 
+Sc Al Ar 
+Sc Ar 
+Sc Ar Am O U C H 
+Sc Ar F 
+Sc At 
+Sc I At I C 
+S C I At I C 
+Sc I O Li S Ti C 
+S C I O Li S Ti C 
+Sc O F F 
+Sc O O P 
+Sc O O P Er 
+Sc O Re 
+Sc O Rn 
+Sc O Rn Er 
+Sc O Tc H 
+Sc O Ts 
+Sc O U Rg Er 
+Sc O W 
+Sc Ra Tc H 
+Sc Ra Tc H Y 
+Sc Ru B 
+Sc Ru B B Y 
+Sc Ru F F 
+Sc Ru N C H 
+Sc Ru Ti N Y 
+Sc U F F 
+Sc U P P Er 
+Sc U Rf 
+Sc U Rf Y 
+Sc U Ta Ge 
+Se Re 
+Se Re 
+Se Rf 
+S Er F 
+S H Ag 
+S H Am 
+S H Am Po O 
+S H Am P O O 
+S H Am Po O Er 
+S H Am P O O Er 
+S H Ar Er 
+S H Ar K 
+S H Ar P 
+S H Ar P Er 
+S H Ar P Ne S S 
+S H Ar P N Es S 
+S H As Ta 
+S H I F Ti Ne S S 
+S H I F Ti N Es S 
+S H I F Tl Es S 
+S H In 
+S H I N 
+S H In Er 
+S H In Y 
+S H I N Y 
+S H I P 
+S H I P P Er 
+S H I V Er 
+S Ho Al 
+S H O Al 
+S Ho At 
+S H O At 
+S Ho C K 
+S H O C K 
+S Ho O 
+S H O O 
+S Ho O K 
+S H O O K 
+S Ho P 
+S H O P 
+S Ho P P Er 
+S H O P P Er 
+S Ho P W O Rn 
+S H O P W O Rn 
+S Ho Re 
+S H O Re 
+S Ho Rn 
+S H O Rn 
+S Ho W 
+S H O W 
+S Ho W Er 
+S H O W Er 
+S Ho W N 
+S H O W N 
+S Ho W Y 
+S H O W Y 
+S H Ra N K 
+S H Re W 
+S H Re W I S H 
+S H Ru B 
+S H U C K 
+S H U C K Er 
+S H U N 
+S H Y 
+S H Y Ne S S 
+S H Y N Es S 
+Si C 
+S I C 
+Si C K 
+S I C K 
+Si Er Ra 
+S I Er Ra 
+Si Es Ta 
+S I Es Ta 
+Si La Ge 
+S I La Ge 
+Si Li C I O U S 
+S I Li C I O U S 
+Si Lv Er 
+S I Lv Er 
+Si Mo N Y 
+S I Mo N Y 
+Si N 
+Si N Ge 
+Si N K Er 
+Si N U O U S 
+Si N U S 
+Si P 
+S I P 
+Si P P Er 
+S I P P Er 
+Si Re 
+Si S 
+S I S 
+Si S Y P H U S 
+S I S Y P H U S 
+S K At Er 
+S K I 
+S K I F F 
+S K In 
+S K I N 
+S K In N Y 
+S K I N N Y 
+S K I P 
+S K I P P Er 
+S K U N K 
+S La B 
+S La C K 
+S La C K Ne S S 
+S La C K N Es S 
+S La P 
+S La S H 
+S La Te 
+S La V 
+S La V Er 
+S La V I C 
+S La V I S H 
+S La W 
+S La Y 
+S La Y Er 
+S Li C K 
+S Li C K Er 
+S Li C K Ne S S 
+S Li C K N Es S 
+S Li Mn Es S 
+S Li N K 
+S Li N K Y 
+S Li P 
+S Li P Pa Ge 
+S Li P Pa Ge 
+S Li P P Er 
+S Li P P Er In Es S 
+S Li Th Er 
+S Li V Er 
+S Lu I Ce 
+S Lu I Ce 
+S Lu N K 
+S Lu S H 
+S Lu S H Y 
+Sm O C K 
+S Mo C K 
+Sm O K Es Ta C K 
+S Mo K Es Ta C K 
+Sm O K Y 
+S Mo K Y 
+Sm O O C H 
+S Mo O C H 
+Sm O O Th 
+S Mo O Th 
+Sm O O Th B O Re 
+S Mo O Th B O Re 
+Sm O O Th Er 
+S Mo O Th Er 
+Sm O Te 
+S Mo Te 
+Sn Ag 
+Sn At C H 
+Sn I C K Er 
+Sn I F F 
+Sn I P 
+Sn O B 
+Sn O B B Y 
+Sn O Re 
+Sn O W 
+Sn U B 
+S N U B 
+Sn U F F 
+S N U F F 
+S O 
+S O Ar 
+S O B 
+S O Be Rn Es S 
+S O C I Al 
+S O C I Al I Sm 
+S O C I Al I Sm 
+S O C K 
+S O F Te N 
+S O F Tl Y 
+S O Ho 
+S O H O 
+S O La Ce 
+S O La Ce 
+S O Lu Te 
+S O Lu Ti O N 
+S O Lv Er 
+S O Mn Am B U La Te 
+S O Mn Am B U Li Sm 
+S O Mn Am B U Li Sm 
+S O Mn Am B U Li S Ti C 
+S O N 
+S O Na Ta 
+S O Na Ta 
+S O No Ra N 
+S O N O Ra N 
+S O O N 
+S O O Th Er 
+S O O Ti Ne S S 
+S O O Ti N Es S 
+S O P 
+S O P H I Sm 
+S O P H I Sm 
+S O P H I S Ti Ca Te 
+S O P H I S Ti Ca Te 
+S O P H I S Ti Ca Ti O N 
+S O P H I S Ti C At I O N 
+S O P Ho Mo Re 
+S O P H O Mo Re 
+S O P P Y 
+S O Re 
+S O Re Ne S S 
+S O Re N Es S 
+S Os 
+S O S 
+S O U Nd 
+S O U Nd 
+S O U P 
+S O U P Co N 
+S O U P C O N 
+S O U P Y 
+S O U Rn Es S 
+S O U Se 
+S O U Se 
+S O U Th 
+S O U Th Er N 
+S O U Th W Es Te Rn 
+S O W 
+S O W Er 
+S O W N 
+S O Y 
+S Pa 
+S Pa 
+S Pa Re 
+S Pa Re 
+S Pa Rg Er 
+S Pa Rg Er 
+S Pa S Ti C 
+S P As Ti C 
+S Pa Te 
+S Pa Te 
+S Pa Ti Al 
+S P At I Al 
+S P He Re 
+S P He Re 
+S P I Ca 
+S P I Ca 
+S P I C In Es S 
+S P In 
+S P I N 
+S P In Al 
+S P In Y 
+S P I N Y 
+S P Ir Al 
+S P Ir Al 
+S P La S H 
+S P La S H Y 
+S P La Y 
+S P Li Ce 
+S P Li Ce 
+S Po Li At I O N 
+S P O Li At I O N 
+S Po N Ge 
+S P O N Ge 
+S Po O K 
+S P O O K 
+S Po O N 
+S P O O N 
+S Po Tl Es S 
+S P O Tl Es S 
+S Po U S Al 
+S P O U S Al 
+S Pu N 
+S P U N 
+S Pu N K Y 
+S P U N K Y 
+S Pu Rn 
+S P U Rn 
+S Pu Rn Er 
+S P U Rn Er 
+S P Y 
+S Ta C K 
+S Ta F F 
+S Ta Ge 
+S Ta Ge Co Ac H 
+S Ta Ge C O Ac H 
+S Ta In 
+S Ta I N 
+S Ta N C H 
+S Ta N C H I O N 
+S Ta Nd 
+S Ta Nd 
+S Ta N K 
+S Ta P Es 
+S Ta Re 
+S Ta Rf I S H 
+S Ta Si S 
+S Ta S I S 
+S Ta Te 
+S Ta Te Li Ne S S 
+S Ta Te Li N Es S 
+S Ta Ti Cs 
+S Ta Ti C S 
+S Ta Ti O N 
+S Ta Ti Sm 
+S Ta Ti Sm 
+S Ta Ti S Ti Cs 
+S Ta Ti S Ti C S 
+S Ta V Es 
+S Ta Y 
+S Te Al 
+S Te Al Er 
+S Te Al Th In Es S 
+S Te Al Th Y 
+S Te Am B O At 
+S Te Am Er 
+S Te Am In Es S 
+S Te Am S H I P 
+S Te Am Y 
+S Te At I Te 
+S Te Er 
+S Te Er Er 
+S Te In 
+S Te I N 
+S Te La 
+S Te N C H 
+S Te P 
+S Te Pm O Th Er 
+S Te P Mo Th Er 
+S Te P P Er 
+S Te P S O N 
+S Te Re 
+S Te Rn 
+S Te Rn Ne S S 
+S Te Rn N Es S 
+S Te Rn U Ta Ti O N 
+S Te W 
+S Te W Ar Ds H I P 
+S Ti C K 
+S Ti C K Er 
+S Ti C K In Es S 
+S Ti C K Y 
+S Ti F F 
+S Ti F F I S H 
+S Ti F F Ne S S 
+S Ti F F N Es S 
+S Ti N K 
+S Ti N K Er 
+S Ti Pu La Te 
+S Ti P U La Te 
+S Ti Pu La Ti O N 
+S Ti P U La Ti O N 
+S Ti Tc H 
+S U As I O N 
+S U B 
+S U B Cl As S 
+S U B C La S S 
+S U B Ge N U S 
+S U B O Rn 
+S U B O Rn At I O N 
+S U B O Rn Er 
+S U B P Er I Os Te Al 
+S U B P Er I O S Te Al 
+S U B S Ta N Ce 
+S U B S Ta N Ce 
+S U B S Ta N Ti At I O N 
+S U B S Ta N Ti V Al 
+S U B Te Nd 
+S U B Te Nd 
+S U B Te Rf U Ge 
+S U B Tl Y 
+S U B V Er Si O N 
+S U B V Er S I O N 
+S U C Co Ta S H 
+S U C C O Ta S H 
+S U C Cu B U S 
+S U C C U B U S 
+S U C K Er 
+S U C Ti O N 
+S U Ds 
+S U Er 
+S U F F I Ce 
+S U F F I Ce 
+S U F F O Ca Te 
+S U F F O Ca Te 
+S U F F O Ca Ti O N 
+S U F F O C At I O N 
+S U F F U Se 
+S U F F U Se 
+S U F F U Si O N 
+S U F F U S I O N 
+S U F I 
+S U F I Sm 
+S U F I Sm 
+S U I Te 
+S U Lu 
+S U Mn Er 
+S U N 
+S U Nb U Rn 
+S U N B U Rn 
+S U N K 
+S U N Na 
+S U N Na 
+S U N Ni Te 
+S U N N I Te 
+S U N N Y 
+S U N U P 
+S U P 
+S U P Er 
+S U P Er C H Ar Ge 
+S U P Er C I Li O U S 
+S U P Er Er Og At I O N 
+S U P Er Er O Ga Ti O N 
+S U P Er Fl U O U S 
+S U P Er F Lu O U S 
+S U P Er S At U Ra Te 
+S U P Er S At U Ra Ti O N 
+S U P Er V I Se 
+S U P Er V I Se 
+S U P Er V I Si O N 
+S U P Er V I S I O N 
+S U P P Er 
+S U P P Li Ca Te 
+S U P P Li Ca Te 
+S U P P Li Ca Ti O N 
+S U P P Li C At I O N 
+S U P P Li Er 
+S U P Po S Al 
+S U P Pu Ra Te 
+S U P P U Ra Te 
+S U Ra 
+S U Ra H 
+S U Re 
+S U Re Ne S S 
+S U Re N Es S 
+S U Rf 
+S U Rf Er 
+S U S P I C I O N 
+S U S P Ir At I O N 
+S U S P I Ra Ti O N 
+S U S Ta In 
+S U S Ta I N 
+S U S Ta In Er 
+S U Tl Er 
+S W Am 
+S W Am P 
+S W Am P Y 
+S W Ar Th In Es S 
+S W Ar Th Y 
+S W As H 
+S W At 
+S W At He 
+S W At He 
+S W I F Tl Y 
+S W In Ge 
+S W I N Ge 
+S W In I S H 
+S W I S H 
+S W I S S 
+S W I Tc H 
+S W O B 
+S W O O N 
+S W O O P 
+S W O P 
+S W O Re 
+S W O Rn 
+S Y No N Y Mo U S 
+S Y N O N Y Mo U S 
+S Y No V I Al 
+S Y N O V I Al 
+S Y N Th Es I S 
+S Y P H I Li S 
+S Y P H I Li Ti C 
+S Y P Ho N 
+S Y P H O N 
+Ta B O O 
+Ta B U 
+Ta B U La Ti O N 
+Ta C K 
+Ta C K Er 
+Ta C K Y 
+Ta C Ti C 
+Ta C Tl Es S 
+Ta I 
+Ta In Tl Es S 
+Ta I N Tl Es S 
+Ta K Er 
+Ta Lu S 
+Ta N 
+Ta N Ge N C Y 
+Ta N Ge N Ti Al 
+Ta N K 
+Ta N Ni N 
+Ta N S Y 
+Ta N Ta Lu S 
+Ta O I Sm 
+Ta O I Sm 
+Ta P 
+Ta P Er 
+Ta P I O Ca 
+Ta P I O Ca 
+Ta P Ir 
+Ta P Ir 
+Ta P P Er 
+Ta Re 
+Ta Rn 
+Ta Rn I S H 
+Ta S Te 
+Ta U 
+Ta U Ru S 
+Ta V Er N 
+Ta W 
+Ta W N Y 
+Te Ac H 
+Te Ac U P 
+Te Al 
+Te Am 
+Te Ar 
+Te Ar Er 
+Te As Er 
+Te As Po O N 
+Te As P O O N 
+Te At 
+Te C H Ni C 
+Te C H N I C 
+Te Li C 
+Te N 
+Te Nd 
+Te Nd 
+Te N Ni S 
+Te N N I S 
+Te No N 
+Te N O N 
+Te N Se 
+Te N Se 
+Te N Si O N 
+Te N S I O N 
+Te N Th 
+Te N U O U S 
+Te N U Re 
+Te Rn 
+Te Rn Ar Y 
+Te S Se Ra 
+Te S Se Ra 
+Te S Ta Te 
+Te S Te S 
+Te S Ti F I Er 
+Te S Ti F Y 
+Te S Ti Mo Ni Al 
+Te S Ti Mo N I Al 
+Te S Ti Mo N Y 
+Te S Ti Ne S S 
+Te S Ti N Es S 
+Te S Ti S 
+Te Ta N U S 
+Te Tc H Y 
+Te Th Er 
+Th Al Am I C 
+Th Al Am U S 
+Th Al As Si C 
+Th Al As S I C 
+Th Ar 
+Th At C H 
+Th Er Mo S Ta Ti C 
+Th Es Au Ru S 
+Th Es I S 
+Th I C K 
+Th I C K I S H 
+Th I C K Ne S S 
+Th I C K N Es S 
+Th In 
+Th I N 
+Th In K Er 
+Th I N K Er 
+Th O 
+Th O Ra C I C 
+Th O Rn 
+Th O U 
+Th Re At 
+Th Re No Dy 
+Th Re N O Dy 
+Th Re S H 
+Th Re W 
+Th Ru 
+Th Ru S H 
+Th U S 
+Th W Ac K 
+Th Y 
+Ti Bi Al 
+Ti B I Al 
+Ti C 
+Ti C K 
+Ti C K Er 
+Ti Dy 
+Ti Er 
+Ti F F 
+Ti Mo Cr At I C 
+Ti Mo C Ra Ti C 
+Ti N 
+Ti Ne 
+Ti Ne 
+Ti N Ge 
+Ti N K Er 
+Ti N N Y 
+Ti N Y 
+Ti P 
+Ti P P Er 
+Ti Re 
+Ti Ta N 
+Ti Ta Ni C 
+Ti Ta N I C 
+Ti Tm O U Se 
+Ti Tm O U Se 
+Tm Es I S 
+Ts Ar 
+U 
+U Lu La Te 
+U Lu La Ti O N 
+U Nb Ar 
+U Nb O Rn 
+U N B O Rn 
+U N C H As Te 
+U N C I Al 
+U N Cl As P 
+U N C La S P 
+U N F As Te N 
+U N F I Li Al 
+U Nh I Tc H 
+U N H I Tc H 
+U Nh O O K 
+U Ni F Y 
+U N I F Y 
+U Ni O N 
+U N I O N 
+U Ni S O N 
+U N I S O N 
+U Ni Te 
+U N I Te 
+U Ni V Er S Al 
+U N I V Er S Al 
+U Ni V Er S Al I S Ti C 
+U N I V Er S Al I S Ti C 
+U N K No W N 
+U N K N O W N 
+U N La Ce 
+U N La Ce 
+U N La Tc H 
+U N Li N K 
+U N Lu C K In Es S 
+U N Re Al 
+U N Re As O N 
+U N Ru Li Ne S S 
+U N Ru Li N Es S 
+U N S H I P 
+U N S O U Nd 
+U N S O U Nd 
+U N S Ti C K 
+U N S U B S Ta N Ti Al 
+U N S U C Ce S S 
+U N S U C C Es S 
+U N S W At He 
+U N S W At He 
+U N U S U Al 
+U N W Ar In Es S 
+U N W I Se 
+U N W I Se 
+U N W Ra P 
+U P 
+U Po N 
+U P O N 
+U P P Er 
+U P P I S H 
+U Ra N U S 
+U Re Th Ra 
+U Rn 
+U S 
+U Se 
+U Se 
+U S U Al 
+U Te Ru S 
+U V U La 
+V Ac At I O N 
+V Ac C In At I O N 
+V Ac U O U S 
+V Ac U O U Sn Es S 
+V Ag Ar I O U S 
+V Ag In Al 
+V Ag In I Ti S 
+V Ag Ra N C Y 
+V Ag Ra N Tl Y 
+V Al H Al La 
+V Al I Se 
+V Al I Se 
+V Al U Er 
+V Am P 
+V Am P Er 
+V Ar I At I O N 
+V Ar Y 
+V As 
+V As S Al 
+V As Tl Y 
+V At 
+V At I C In Al 
+V At I C In At I O N 
+V Er B 
+V Er Ge 
+V Er I F I Er 
+V Er Ni Er 
+V Er N I Er 
+V Er Se 
+V Er Se 
+V Er Si F Y 
+V Er S I F Y 
+V Er Si O N 
+V Er S I O N 
+V Er S O 
+V Er S U S 
+V Er Te Br Al 
+V Er Te Br Al 
+V Er Y 
+V Es I Cu La Te 
+V Es I C U La Te 
+V Es I Cu La Ti O N 
+V Es I C U La Ti O N 
+V Es P Er 
+V Es P Er Ti Ne 
+V Es P Er Ti Ne 
+V Es Ta 
+V Es Ti Ar Y 
+V Es Ti Ge 
+V I Al 
+V I Br At I O N 
+V I B Ra Ti O N 
+V I Ce 
+V I Ce 
+V I C In Al 
+V I Li F I Ca Ti O N 
+V I Li F I C At I O N 
+V I Li F I Er 
+V In O U S 
+V I O La 
+V I O La Ti O N 
+V I O Li N 
+V I P Er 
+V I P Er I S H 
+V I P Er O U S 
+V I Sc Er Al 
+V I Sc O U N Tc Y 
+V I Sc O U N Te S S 
+V I Sc O U S 
+V I Sc U S 
+V I Se 
+V I Se 
+V I S H N U 
+V I Si O N 
+V I S I O N 
+V I Si Ta Ti O N 
+V I S I Ta Ti O N 
+V I S Ta 
+V I Ta Li Sm 
+V I Ta Li Sm 
+V I Ta Li S Ti C 
+V I Ti At I O N 
+V I V Ac I O U S 
+V I V I F I Ca Ti O N 
+V I V I F I C At I O N 
+V I V I F Y 
+V I Xe Ni S H 
+V I Xe N I S H 
+V O Ca Li C 
+V O C Al I C 
+V O Ca Ti O N 
+V O C At I O N 
+V O C I Fe Ra Te 
+V O C I Fe Ra Te 
+V O C I Fe Ra Ti O N 
+V O C I F Er At I O N 
+V O I Ce 
+V O I Ce 
+V O Lu N Te Er 
+V O Lu Te 
+V O Lu Ti O N 
+V O Ra C I O U S 
+V O Te 
+V O U C H 
+V O U S S O Ir 
+V O U S S O Ir 
+V O W 
+V O W Er 
+V O Y Ag Er 
+W 
+W Ag 
+W Ag Er 
+W Ag Er Er 
+W Ag Es 
+W Ag O N 
+W Al K 
+W Al K Er 
+W Al La B Y 
+W Al Ru S 
+W Ar 
+W Ar Es 
+W Ar In Es S 
+W Ar Mn Es S 
+W Ar Mt H 
+W Ar N 
+W Ar P 
+W Ar Pa Ge 
+W Ar Pa Ge 
+W Ar Pa Th 
+W Ar P At H 
+W As 
+W As H 
+W As H In Es S 
+W As P 
+W As Ta Ge 
+W As Te 
+W At C H 
+W At Er 
+W At Er In Es S 
+W At Te Au 
+W Es Te Rn Er 
+W H Ac K 
+W H Al Er 
+W H Ar F 
+W H At 
+W He Re 
+W He Re 
+W H I C H 
+W H I F F 
+W H In Er 
+W H In Ge 
+W H I N Ge 
+W H In N Y 
+W H I N N Y 
+W H I P 
+W H I P La S H 
+W H I P P Er 
+W H I P S Ti Tc H 
+W H I Pt 
+W H I Pt 
+W H Ir 
+W H Ir 
+W H I S K 
+W H I S K Er 
+W H I S Tl Er 
+W H I Te 
+W H I Te N 
+W H I Te Ne S S 
+W H I Te N Es S 
+W H I Te S 
+W H I Ti S H 
+W H I Tl O W 
+W Ho O P 
+W H O O P 
+W Ho O P Er 
+W H O O P Er 
+W Ho P 
+W H O P 
+W Ho Re 
+W H O Re 
+W Ho S O 
+W H Y 
+W I C K 
+W I C K Er 
+W I Ge O N 
+W I Li Ne S S 
+W I Li N Es S 
+W In 
+W I N 
+W In C H 
+W I N C H 
+W In K 
+W I N K 
+W In Y 
+W I N Y 
+W I P Er 
+W I Se 
+W I Se 
+W I S H B O Ne 
+W I S H B O Ne 
+W I Tc H 
+W I Th 
+W I Th Al 
+W I Th Er S 
+W I Th S Ta Nd 
+W I Th S Ta Nd 
+W I Th Y 
+W I Tl Es S 
+W I V Es 
+W O Lv Es 
+W O N 
+W O O 
+W O O Ds Y 
+W O O Er 
+W O Re 
+W O Rn 
+W O U Nd 
+W O U Nd 
+W Ra C K 
+W Ra P 
+W Ra S Se 
+W Ra S Se 
+W Ra Th 
+W Re At H 
+W Re At He 
+W Re At He 
+W Re C K 
+W Re N 
+W Re N C H 
+W Re S Tl Er 
+Xe No N 
+Xe N O N 
+Y 
+Y Am 
+Y Ar Ds Ti C K 
+Y Ar N 
+Y Es 
+Y In 
+Y I N 
+Y O N 
+Y O Re 
+Y O U 
+Y U C Ca 
+Y U C Ca 
+Y U C K 
