@@ -1,12 +1,12 @@
 import json
 
-with open('./woordenboek.json', 'r', encoding="utf8") as dictionary:
+with open('./rescources/woordenboek.json', 'r', encoding="utf8") as dictionary:
     words = list(json.loads(dictionary.read()))
     dictionary.close()
 
 print('Number of words:', len(words))
 
-with open('./periodic_table.json', 'r', encoding="utf8") as periodic_table:
+with open('./rescources/periodic_table.json', 'r', encoding="utf8") as periodic_table:
     elements_dict = json.loads(periodic_table.read())["elements"]
     elements = [{"name":element["name"], "symbol":element["symbol"]} for element in elements_dict]
     periodic_table.close()
@@ -51,7 +51,8 @@ def single_is_element(element_chars, word):
             else:
                 return double_is_element(element_chars, word), single_is_element(element_chars + [element], word[1:])
 
-with open('./elemental_hangman.txt', 'w', encoding="utf8") as element_words_file:
+with open('./elemental_words/elemental_hangman.txt', 'w', encoding="utf8") as element_words_file:
+        #Code needs to be improved for less loss
     element_words = ''
     for word in words:
         try:
