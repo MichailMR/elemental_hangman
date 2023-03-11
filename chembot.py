@@ -102,5 +102,5 @@ async def answer(ctx, *args):
     game.is_playing = False
 
 
-token = json.load(open('../key.json'))["key"]
-bot.run('MTAzODUwNzIxNDMwODEzMDg0Nw.GndWYP.qy7fkI7TDK-ZrumhPIhXFb1_2YRlQ1-Lskz0Pc')
+token = json.load(open('../key.json'))["token"]
+bot.run(token)
