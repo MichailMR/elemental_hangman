@@ -77,7 +77,7 @@ class chem_game:
 
         await ctx.send(f'The word was: {" ".join(elemental_word)}')
         
-game = chem_game()
+games = []
 
 bot = commands.Bot(command_prefix = '?')
 
@@ -91,6 +91,16 @@ async def ping(ctx):
     
 @bot.command(help = 'Starts a game', aliases=['s'])
 async def start(ctx, *args):
+    global games
+    channel_id = ctx.channel.id
+    
+    index = [index for index, game in enumerate(games) if game["id"] == channel_id]
+    if len(index) > 0:
+        games.pop(index[0])
+    
+    games += [{"game":chem_game(), "id":ctx.channel.id}]
+    game = games[-1]["game"]
+    
     game.is_playing = True
     if len(args) > 0 and args[0] in ['nl', 'eng']:
         await game.start(ctx, language=args[0])
@@ -99,7 +109,11 @@ async def start(ctx, *args):
     
 @bot.command(help = 'Ends the game and reveals the answer', aliases=['a'])
 async def answer(ctx, *args):
-    game.is_playing = False
+    channel_id = ctx.channel.id
+    
+    index = [index for index, game in enumerate(games) if game["id"] == channel_id]
+    if len(index) > 0:
+        games[index[0]]["game"].is_playing = False
 
 
 token = json.load(open('../key.json'))["token"]
